@@ -4,7 +4,6 @@
 <li>🌱 I’m currently learning Python, Django, DRf, HTML and CSS</li>
 <li>📫 You always can reach me:
 <a href="alexander.maslov505@gmail.com"><img src="https://camo.githubusercontent.com/81f051ac648dd8648812d3218bf45ca54379011006582773097eaea84a4d989f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334541343333352e7376673f7374796c653d706c6173746963266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
-
 <a href="https://t.me/satel_s" rel="nofollow"><img src="https://camo.githubusercontent.com/3d086fcecacdcccb8f87e346eb73de4755eb4ae3d5802bbbfb9e3df7bad4dfe7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f74656c656772616d2d626c75653f7374796c653d706c6173746963266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram" data-canonical-src="https://img.shields.io/badge/telegram-blue?style=plastic&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;"></a></li>
 </ul>
 <p dir="auto"></p>
